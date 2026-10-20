@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilke\\Desktop\\zadaci-informatika\\pocetni-projekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD7FD22-27BB-E425-8DCA-E18E19526B79}|pocetanprojekat\\pocetanprojekat.csproj|c:\\users\\ilke\\desktop\\zadaci-informatika\\pocetni-projekat\\pocetanprojekat\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ACD7FD22-27BB-E425-8DCA-E18E19526B79}|pocetanprojekat\\pocetanprojekat.csproj|solutionrelative:pocetanprojekat\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Ilke\\Desktop\\zadaci-informatika\\pocetni-projekat\\pocetanprojekat\\.gitignore",
+              "RelativeDocumentMoniker": "pocetanprojekat\\.gitignore",
+              "ToolTip": "C:\\Users\\Ilke\\Desktop\\zadaci-informatika\\pocetni-projekat\\pocetanprojekat\\.gitignore",
+              "RelativeToolTip": "pocetanprojekat\\.gitignore",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAwwAABAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-20T14:31:02.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
